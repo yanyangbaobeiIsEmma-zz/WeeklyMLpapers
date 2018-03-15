@@ -7,7 +7,7 @@ comment: super wired paper... :(
 ### comment:
 ##### Optimize an unknown, noisy function by formalizing this problem as MAB problem. Solve it through GP optimization. GP-UCB can bound its cumulative regret in terms of maximal information gain. 
 ##### GP http://cs229.stanford.edu/section/cs229-gaussian_processes.pdf
-##### GP-UCB algorithm 
+##### GP-UCB algorithm ![](https://github.com/yanyangbaobeiIsEmma/WeeklyMLpapers/blob/master/GP-UCB.PNG)
 
 
 
